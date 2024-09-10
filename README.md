@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a developer at Banco de la Provincia de Tierra del Fuego
 - 🌱 I’m currently learning Express.js
 
-[![Mis estadisticas](https://github-readme-stats.vercel.app/api?username=p-agustinSilva)](https://github.com/p-agustinSilva/github-readme-stats)
+[![Mis estadisticas](https://github-readme-stats.vercel.app/api?username=o-agustinSilva)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **o-agustinSilva/o-agustinSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
