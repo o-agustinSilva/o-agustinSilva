@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agustin Silva</h1>
 <h3 align="center">A passionate frontend developer 👨🏻‍💻 from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o-agustinsilva" alt="o-agustinsilva" /></a> </p>
-
 - 🔭 I’m currently as a developer at **Banco de Tierra del Fuego**
 
 - 🌱 I’m currently learning **React JSX and Express JS**
